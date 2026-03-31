@@ -1,4 +1,4 @@
-# AI Study Planner (CLI-Based, No External APIs)
+# AI Study Planner
 
 ## 📌 Overview
 
